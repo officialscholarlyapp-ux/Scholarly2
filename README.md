@@ -1,2 +1,0 @@
-# Scholarly2
-scholarly
